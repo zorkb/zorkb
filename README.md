@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zorkb (Zach Buchman)
-- 👀 I’m interested a researcher and designer.
+- 👀 I’m a researcher and designer.
 - 🌱 I’m currently learning to code on the side.
 
 
