@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @zorkb (Zach Buchman)
-- 👀 I’m a researcher and designer.
-- 🌱 I’m currently learning to code on the side.
 
 
 <!---
